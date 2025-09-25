@@ -43,7 +43,7 @@ nav a:hover {
 }
 
 .main h2 {
-    color: olive;
+    color: red;
     margin-top: 5px;
 }
 
@@ -242,4 +242,5 @@ table tr:hover {
         .contactbox button:hover {
             background: #005f8d;
         }
+
   
